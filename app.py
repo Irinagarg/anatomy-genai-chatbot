@@ -5,6 +5,9 @@
         return """
          HEART:
 
+
+     
+
         The heart is a hollow, muscular organ responsible for pumping blood 
         throughout the circulatory system. It maintains continuous blood flow 
         to deliver oxygen and nutrients to tissues and remove carbon dioxide.
